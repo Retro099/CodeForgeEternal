@@ -29,6 +29,15 @@ CodeForgeEternal/
 - Repository initialized (December 27, 2025)
 - Next: Adding Master Plan and folder structure
 
+## 🛠 Quick Start
+
+### Local Setup
+```bash
+git clone https://github.com/Retro099/CodeForgeEternal.git
+cd CodeForgeEternal
+pip install -r requirements.txt
+python src/hello_world.py  # Test environment
+
 ## 📈 Progress Tracking
 Coming soon: Weekly logs, skills matrix, and milestone dashboard.
 
