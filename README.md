@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/Retro099/CodeForgeEternal?color=brightgreen)
 
-**Dedicated repository for systematically building Python, Data Science, Machine Learning, and Deep Learning skills**  
+**Dedicated repository for systematically building Python, Data Science, Machine Learning, and Deep Learning skills**   
 Targeted toward mid-level AI/ML engineering roles in Japan (April 2026 interviews and beyond).
 
 ## 🎯 Goals
