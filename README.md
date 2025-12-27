@@ -15,3 +15,25 @@ Targeted toward mid-level AI/ML engineering roles in Japan (April 2026 interview
 - Balance coding practice with JLPT preparation
 
 ## 📂 Repository Structure (Planned)
+CodeForgeEternal/
+├── docs/                  # Master Plan, progress logs, resources
+├── notebooks/             # Quick experiments and learning notebooks
+├── projects/              # Completed ML/DL projects (e.g., Churn Prediction, CNNs)
+├── src/                   # Reusable scripts and modules
+├── requirements.txt       # Core dependencies
+├── LICENSE                # MIT License
+└── README.md              # You're here!
+
+
+## 🚀 Current Status
+- Repository initialized (December 27, 2025)
+- Next: Adding Master Plan and folder structure
+
+## 📈 Progress Tracking
+Coming soon: Weekly logs, skills matrix, and milestone dashboard.
+
+## 🤝 Contributing
+This is a personal learning journey, but feel free to star ⭐ or fork if it inspires you!
+
+---
+*Built with discipline and long-term vision. Japan AI/ML roles incoming.*
