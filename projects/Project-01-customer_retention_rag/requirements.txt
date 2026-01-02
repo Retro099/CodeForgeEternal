@@ -1,0 +1,22 @@
+# Core
+pandas>=2.0
+numpy
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-community
+langchain-core
+
+# Embeddings & Vector DB
+sentence-transformers
+faiss-cpu  # or faiss-gpu if you have GPU locally
+huggingface-hub
+
+# LLM (Gemma via Keras NLP)
+keras>=3.0
+keras-nlp
+
+# Optional for notebook extras
+matplotlib
+seaborn
+scikit-learn  # if adding XGBoost later
