@@ -1,48 +1,60 @@
 # CodeForgeEternal 🔥
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Last Commit](https://img.shields.io/github/last-commit/Retro099/CodeForgeEternal?color=brightgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Practice-brightgreen)
+![Last Updated](https://img.shields.io/github/last-commit/Retro099/CodeForgeEternal?color=brightgreen)
 
-**Dedicated repository for systematically building Python, Data Science, Machine Learning, and Deep Learning skills**   
-Targeted toward mid-level AI/ML engineering roles in Japan (April 2026 interviews and beyond).
+**This repository is my dedicated workspace for daily coding practice and technical skill improvement**, following the **CodeForge Eternal Master Plan**.
 
-## 🎯 Goals
-- Master end-to-end ML workflows (data → model → evaluation → insights)
-- Build a strong, recruiter-friendly portfolio with reproducible projects
-- Track consistent progress with weekly routines and milestones
-- Integrate Japanese technical vocabulary (JLPT N3/N2 level) for interviews
-- Balance coding practice with JLPT preparation
+It is **separate** from my public portfolio repository (`ML-Projects`). This repo contains daily drills, logic explanation exercises, and structured learning work.
 
-## 📂 Repository Structure (Planned)
+## 🎯 Purpose
+
+- Build strong foundational coding skills and clear logic explanation ability (especially in plain text under pressure)
+- Practice the 5-Step Coding Cycle consistently
+- Track daily progress with honesty and data
+- Prepare for technical interviews (Japan mid-level AI/ML roles)
+
+## 📂 Current Structure
 CodeForgeEternal/
-├── docs/                  # Master Plan, progress logs, resources
-├── notebooks/             # Quick experiments and learning notebooks
-├── projects/              # Completed ML/DL projects (e.g., Churn Prediction, CNNs)
-├── src/                   # Reusable scripts and modules
-├── requirements.txt       # Core dependencies
-├── LICENSE                # MIT License
-└── README.md              # You're here!
+├── day-01/
+│   ├── problem1_array_sum/
+│   └── problem2_max_second_max/
+├── day-02/
+├── progress/
+│   └── tracking.md
+├── README.md
+└── .gitignore
 
 
-## 🚀 Current Status
-- Repository initialized (December 27, 2025)
-- Next: Adding Master Plan and folder structure
+## 🔄 Daily Practice System
 
-## 🛠 Quick Start
-
-### Local Setup
-```bash
-git clone https://github.com/Retro099/CodeForgeEternal.git
-cd CodeForgeEternal
-pip install -r requirements.txt
-python src/hello_world.py  # Test environment
+Every problem follows the **5-Step Coding Cycle**:
+1. Read the problem
+2. Think + speak solution in simple Japanese
+3. Solve in Google Colab
+4. Follow Locked GitHub Workflow (Colab → Local → VS Code → GitHub Desktop)
+5. Plain-text explanation drill (simulate chat box) + Japanese verbal recording
 
 ## 📈 Progress Tracking
-Coming soon: Weekly logs, skills matrix, and milestone dashboard.
 
-## 🤝 Contributing
-This is a personal learning journey, but feel free to star ⭐ or fork if it inspires you!
+Daily progress is tracked in a Google Sheet (`2026_Coding_Improvement`).  
+At the end of each day I rate myself (1–5) on:
+- Plain-Text Explanation Quality
+- Japanese Technical Explanation Quality
+
+## 🛠 Rules (Non-Negotiable)
+
+- Maximum 2–2.5 hours of coding practice per day (health first)
+- Always follow the Locked GitHub Workflow
+- Clean Code & Self-Review Checklist every Friday
+- Stop immediately if tired
+
+## 📌 Note
+
+Finished, production-ready projects are maintained in the separate repository:  
+[ML-Projects](https://github.com/Retro099/ML-Projects)
 
 ---
-*Built with discipline and long-term vision. Japan AI/ML roles incoming.*
+
+*Built with consistency and long-term discipline. Japan AI/ML roles 2026.*
